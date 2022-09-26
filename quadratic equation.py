@@ -1,4 +1,4 @@
-#========QUADRATIC EQAUTION solver========
+#========QUADRATIC EQAUTION SOLVER========
 
 #made by- Israr Alam
 
